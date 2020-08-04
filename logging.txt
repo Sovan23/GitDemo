@@ -1,0 +1,98 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "sovit",
+    "phone_number": "+91-9916433416",
+    "address": "CDA cuttack",
+    "website": "www.sovan.com",
+    "language": "Hindi",
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "types": [
+        "Boka park",
+        "test"
+    ]
+}
+HTTP/1.1 200 OK
+Via: 1.1 10.34.181.24 (McAfee Web Gateway 8.2.8.32737)
+Date: Thu, 30 Jul 2020 17:48:43 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+Content-Length: 194
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Access-Control-Allow-Methods: POST
+
+{
+    "status": "OK",
+    "place_id": "5df9452908a6122f11e990ee7b6e8bb9",
+    "scope": "APP",
+    "reference": "be97fbd694a8e8c00c4e1908c456f222be97fbd694a8e8c00c4e1908c456f222",
+    "id": "be97fbd694a8e8c00c4e1908c456f222"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "leo",
+    "phone_number": "+91-9916433416",
+    "address": "bangalore",
+    "website": "www.sovan.com",
+    "language": "English",
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "types": [
+        "Boka park",
+        "test"
+    ]
+}
+HTTP/1.1 200 OK
+Via: 1.1 10.34.181.24 (McAfee Web Gateway 8.2.8.32737)
+Date: Thu, 30 Jul 2020 17:48:46 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+Content-Length: 194
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Access-Control-Allow-Methods: POST
+
+{
+    "status": "OK",
+    "place_id": "0fbceab646a33f59a13af29bac557c20",
+    "scope": "APP",
+    "reference": "94100ae545048263770ba254c9e947f094100ae545048263770ba254c9e947f0",
+    "id": "94100ae545048263770ba254c9e947f0"
+}
