@@ -29,23 +29,23 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Via: 1.1 10.34.181.24 (McAfee Web Gateway 8.2.8.32737)
-Date: Thu, 30 Jul 2020 17:48:43 GMT
+Date: Tue, 04 Aug 2020 07:37:18 GMT
 Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: application/json;charset=UTF-8
-Content-Length: 194
-Access-Control-Max-Age: 3600
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Access-Control-Allow-Methods: POST
 
 {
     "status": "OK",
-    "place_id": "5df9452908a6122f11e990ee7b6e8bb9",
+    "place_id": "ea5add8ac9e02f285d2868e649292be5",
     "scope": "APP",
-    "reference": "be97fbd694a8e8c00c4e1908c456f222be97fbd694a8e8c00c4e1908c456f222",
-    "id": "be97fbd694a8e8c00c4e1908c456f222"
+    "reference": "b62791b94656d17777be297fd41c5441b62791b94656d17777be297fd41c5441",
+    "id": "b62791b94656d17777be297fd41c5441"
 }
 Request method:	POST
 Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
@@ -78,21 +78,21 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Via: 1.1 10.34.181.24 (McAfee Web Gateway 8.2.8.32737)
-Date: Thu, 30 Jul 2020 17:48:46 GMT
+Date: Tue, 04 Aug 2020 07:37:20 GMT
 Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: application/json;charset=UTF-8
-Content-Length: 194
-Access-Control-Max-Age: 3600
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Access-Control-Allow-Methods: POST
 
 {
     "status": "OK",
-    "place_id": "0fbceab646a33f59a13af29bac557c20",
+    "place_id": "91e72b3fc8272aba12e93dd529ad6ca4",
     "scope": "APP",
-    "reference": "94100ae545048263770ba254c9e947f094100ae545048263770ba254c9e947f0",
-    "id": "94100ae545048263770ba254c9e947f0"
+    "reference": "e5f38a638d622f258a9ab9f72d1415f9e5f38a638d622f258a9ab9f72d1415f9",
+    "id": "e5f38a638d622f258a9ab9f72d1415f9"
 }
